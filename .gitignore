@@ -3,6 +3,9 @@
 *.classpath
 *.project
 *.settings
+*/src/aplicacao/.class
+*/src/entidade/.class
+*/src/entities/.class
 
 # Log file
 *.log
